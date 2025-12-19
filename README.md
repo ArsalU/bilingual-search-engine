@@ -1,6 +1,6 @@
 # Sistem Pencarian Semantik Lintas-Bahasa (Cross-Lingual Semantic Search)
 
-**Authors:** Muhammad Arsal Ranjana Utama, Syalaisha Andini Putrianyah, Nabila Zakiya Zahra
+**Authors:** Muhammad Arsal Ranjana Utama, Syalaisha Andini Putrianyah, Nabila Zakiyah Zahra
 *(Institut Teknologi Sumatera)*
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bilingual-search-engine-9rhcjuu5pcwfkmmwnufp7v.streamlit.app/)
